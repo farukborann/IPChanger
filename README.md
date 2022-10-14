@@ -3,3 +3,6 @@
  
  # To-Do
  webdriver-manager kullanacak şekilde ayarlanmalı.
+
+# Usage
+Download "chromedriver.exe" to main directory.
